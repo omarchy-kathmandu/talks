@@ -1,3 +1,7 @@
+The presentation should use similar theme to OmaCom website,https://www.omacon.org//
+
+
+
 ## Welcome
 
 Great to see so many people here. I didn't expected that the first episode will be this big. Thank you all for coming.
@@ -6,6 +10,8 @@ Great to see so many people here. I didn't expected that the first episode will 
 ## About me.
 
 My name is Puru, and I've been using Linux for almost a 15+ years now. I'm also very active in Kubernetes and DevOps community, but we aren't going to talk about Kubernetes or DevOps, we'll be talking about Lomux on Desktop.
+
+You can find me on LinkedIn to scan this QR.
 
 What is Omarchy?
 - Omarchy is Linux distrubtuion.
@@ -102,8 +108,10 @@ You can .... lots of big names, not random people.
 
 Any questions before we move to second prestnation by Aaditya.
 
-## Please wselcome Additya.
 
+====== Tea break / networking break of 30 mins =====
+
+## Please welcome Aaditya.
 
 ## Closing
 
@@ -114,4 +122,12 @@ Feel fill up the form if we should continue with episode 2, and leave a feedback
 
 Let's take a group photo, and please take photos during the sessions and you can post in LinkedIn, so others can also see how much energey and passiona is there in Linux commnity and speciially for Omarchy.
 
-I just wanted to say if youw ant to be 10x student, developer or engineer, then Omarchy is your OS to achieve.
+I just wanted to say if you want to be 10x student, developer or engineer, then Omarchy is your OS to achieve.
+
+Join us in LinkedIn, Omarchy Kathamndu, follow it.
+
+Show QR for it.
+
+====== Food break =====
+
+Sponser Pizza and Drink by Puru Tuladhar - 5k maximum.
