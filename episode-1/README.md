@@ -4,7 +4,7 @@ The first episode of Omarchy Kathmandu.
 
 ## Annoucement
 
-https://www.linkedin.com/posts/omarchy-omarchykathmandu-linux-ugcPost-7500778732543201280-MuE6/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABw5JyQBOjlXftekEK8eg44hVd1R02oX8zo
+[LinkedIn](https://www.linkedin.com/posts/omarchy-omarchykathmandu-linux-ugcPost-7500778732543201280-MuE6/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABw5JyQBOjlXftekEK8eg44hVd1R02oX8zo)
 
 ## Event Poster
 
