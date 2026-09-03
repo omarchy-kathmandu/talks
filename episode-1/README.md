@@ -12,6 +12,6 @@ The first episode of Omarchy Kathmandu.
 
 ## Organizers
 
-- [Puru Tuladhar](purutuladhar.com)
-- Aaditya Pageni
-- Aayush Pokhrel
+- [Puru Tuladhar](purutuladhar.com) - Himali.tech
+- Aaditya Pageni - StartSmall
+- Aayush Pokhrel - StartSmall
